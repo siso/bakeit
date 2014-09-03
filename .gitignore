@@ -1,0 +1,22 @@
+# build products...
+*.py[co]
+build
+
+# temporary files
+*~
+*.swp
+
+.\#*
+# RPM stuff...
+# Eclipse/PyDev stuff...
+.project
+.pydevproject
+
+# Mac OS X stuff...
+.DS_Store
+
+# manpage build stuff...
+docs/man/man3/*
+
+# Vagrant
+.vagrant
