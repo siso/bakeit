@@ -1,6 +1,6 @@
 #!/bin/bash
 
 echo "Alive'n'kickin'"
-touch /tmp/bakeit.txt
+touch /kicked.txt
 
 exit 0
